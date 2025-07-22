@@ -61,7 +61,7 @@ com.smartbizflow
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/smartbizflow.git
+git clone https://github.com/saurabhmittall/smartbizflow.git
 cd smartbizflow
 
 # Run the Spring Boot app
